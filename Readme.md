@@ -10,7 +10,7 @@ Student: **Luong Thanh Tuan**<br/>
 ![alt text](https://raw.githubusercontent.com/aquattda/LTT_Art-Design-for-IT/main/Images/color_basic.jpg)
 <br/>
 - **Complementary colors** *(opposite colors):* Two opposite hues on the color wheel (180° apart).
-Examples: Blue-Orange, Red-Green.... <br/>
+Examples: Blue-Orange, Red-Green....
 ![alt text](https://raw.githubusercontent.com/aquattda/LTT_Art-Design-for-IT/main/Images/Complementary.jpg)
 <br/>
 - **Contrast:** Warm-Cool & Value contrast / Light-Drak <br/>
@@ -20,9 +20,10 @@ Contrast between warm hues (red–orange–yellow) and cool hues (blue–green�
 *Figure 3. Color Contrast (Warm-Cool).* <br/>
 **2. Value contrast / Light-Drak** <br/>
 Difference in lightness (value) regardless of hue. Check by converting your palette to grayscale.
-![alt text](https://raw.githubusercontent.com/aquattda/LTT_Art-Design-for-IT/main/Images/Value_Constrast.png) <br/>
+![alt text](https://raw.githubusercontent.com/aquattda/LTT_Art-Design-for-IT/main/Images/Value_Constrast.jpg) <br/>
 *Figure 4. Color Contrast (Value / light-drak).* <br/>
 - **Analogous colors:** 3 adjacent hues on the color wheel
 Examples: Blu-Sky Blue-Deep Sea Blue
 ![alt text](https://raw.githubusercontent.com/aquattda/LTT_Art-Design-for-IT/main/Images/Analogous.jpg)
+=======
 
