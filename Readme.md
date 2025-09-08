@@ -10,7 +10,7 @@ Student: **Luong Thanh Tuan**<br/>
 ![alt text](https://raw.githubusercontent.com/aquattda/LTT_Art-Design-for-IT/main/Images/color_basic.jpg)
 <br/>
 - **Complementary colors** *(opposite colors):* Two opposite hues on the color wheel (180° apart).
-Examples: Blue-Orange, Red-Green....
+Examples: Blue-Orange, Red-Green.... <br/>
 ![alt text](https://raw.githubusercontent.com/aquattda/LTT_Art-Design-for-IT/main/Images/Complementary.jpg)
 <br/>
 - **Contrast:** Warm-Cool & Value contrast / Light-Drak <br/>
