@@ -1,0 +1,17 @@
+# day la comment khong co tac dung ignore files/folders
+
+# Thuc hien viec ignore toan bo folders
+# C1: gitignore       C2: gitignore/ 
+gitignore
+
+# Bo qua toan bo file co hau to .log
+*.ipynb
+
+# Bor qua cac file gitignore_1.xyz nhung van giu gitignore.xyz
+# Bo qua cac file co hau to .xyz trong git repo
+#/*.xyz
+
+# Bo qua file abc.txt trong folder second_folder
+# Ubuntu su dung / la path seperator
+# Windows su dung // hoac \
+#second_folder/abc.txt
