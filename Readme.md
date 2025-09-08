@@ -5,6 +5,6 @@ Lecturer: **Nguyen Thi Thanh Tra**<br/>
 Student: **Luong Thanh Tuan**<br/>
 **Target: Equip students with practical mastery of color theory, color harmonies, and layout/composition for digital design in IT contexts.**<br/>
 ## Course Content
-### I. COLOR\
+### I. COLOR
 - **Color Basics**: Red, Yellow, Blue.
 ![alt text](https://raw.githubusercontent.com/aquattda/LTT_Art-Design-for-IT/main/Images/color_basic.jpg)
