@@ -8,7 +8,6 @@ Student: **Luong Thanh Tuan**<br/>
 ### I. COLOR
 - **Color Basics**: Red, Yellow, Blue.
 ![alt text](https://raw.githubusercontent.com/aquattda/LTT_Art-Design-for-IT/main/Images/color_basic.jpg)
-<<<<<<< HEAD
 <br/>
 - **Complementary colors** *(opposite colors):* Two opposite hues on the color wheel (180° apart).
 Examples: Blue-Orange, Red-Green....
@@ -26,5 +25,4 @@ Difference in lightness (value) regardless of hue. Check by converting your pale
 - **Analogous colors:** 3 adjacent hues on the color wheel
 Examples: Blu-Sky Blue-Deep Sea Blue
 ![alt text](https://raw.githubusercontent.com/aquattda/LTT_Art-Design-for-IT/main/Images/Analogous.jpg)
-=======
->>>>>>> 486da86e5c77af20b8ec47939c78c58019c0ebaf
+
